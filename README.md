@@ -1,5 +1,5 @@
 # Research and computational projects
 
-As an indendent researcher I have worked on many scientific and computational project over the years, developing and implementing algorithms, simulation models, data analysis pipelines, and more. Most of my code is typical research code, and not quite suitable for public release. However, several cleaned-up versions are made available here, together with forks of other repos I have contributed to in the past.
+As an indendent researcher I have worked on many scientific and computational project over the years, developing and implementing various algorithms, simulation models, data analysis pipelines, and more. Most of my code is typical research code, and not quite suitable for public release. However, some cleaned-up versions are made available here, together with forks of other repos I have contributed to in the past.
 
 For more information about my work, including publications and other writings, please visit my [personal website](https://worldwidewanderings.net).
